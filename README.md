@@ -12,3 +12,4 @@
 * Make a pull request
 * We merge
 
+I am Vincent a new programmer but i want to be one of the best programmer anyone can think of in the nearest future!
